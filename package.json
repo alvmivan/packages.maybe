@@ -1,0 +1,24 @@
+﻿{
+  "name": "com.torque-games.maybe-monad",
+  "version": "1.0.1",
+  "displayName": "Maybe Monad",
+  "description": "Wrapper over https://github.com/AndreyTsvetkov/Functional.Maybe",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/AndreyTsvetkov/Functional.Maybe",
+  "changelogUrl": "https://github.com/AndreyTsvetkov/Functional.Maybe/blob/master/Readme.md",
+  "licensesUrl": "https://github.com/AndreyTsvetkov/Functional.Maybe/blob/master/License.txt",
+  "dependencies": {
+    "com.[company-name].some-package": "1.0.0",
+    "com.[company-name].other-package": "2.0.0"
+  },
+  "keywords": [
+    "maybe",
+    "functional"
+  ],
+  "author": {
+    "name": "AndreyTsvetkov",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
