@@ -1,5 +1,5 @@
 ﻿{
-  "name": "com.torque-games.maybe-monad",
+  "name": "com.torquegames.maybe",
   "version": "1.0.1",
   "displayName": "Maybe Monad",
   "description": "Wrapper for make it a unity package",
